@@ -1,9 +1,5 @@
-import comet_ml
 import argparse
 import collections
-import sys
-import requests
-import socket
 import torch
 import data_loader.data_loaders as module_data
 import model.loss as module_loss
